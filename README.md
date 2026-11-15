@@ -31,6 +31,10 @@ Choose **Code → Download ZIP** on this repository and extract it. Keep the who
 3.11+ x64 for Windows from [python.org](https://www.python.org/downloads/windows/)
 if needed. Do not disable antivirus or run the constructor as administrator.
 
+Extract to a short local path such as `C:\OrbitalsBuilder`, especially when
+running the tests. Deeply nested extraction paths can trigger the intentional
+Windows output-path limit; use a shorter folder, not a global Windows setting.
+
 Open PowerShell inside the extracted repository and check Python:
 
 ```powershell

@@ -13,6 +13,8 @@ mandos, red o instalaciones del emulador. Es experimental y no oficial.
 ## Windows: generar el mod
 
 1. Pulsa **Code → Download ZIP** en GitHub y extrae todo.
+   Usa una ruta corta, por ejemplo `C:\OrbitalsBuilder`, tambien para las pruebas.
+   Si rechaza una ruta demasiado larga, acortala; no cambies ajustes de Windows.
 2. Abre PowerShell en la carpeta extraida. Comprueba `py -3 --version`:
    debe indicar Python 3.11 o superior. Si usas `python` en vez de `py -3`,
    sustituyelo en todos los comandos. No lo ejecutes como administrador.
